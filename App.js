@@ -183,7 +183,7 @@ const styles = StyleSheet.create({
 
   bottom_titles: {
     fontFamily: 'Sydney',
-    fontSize: 17,
+    fontSize: 15,
     bottom: 17,
     right: 5,
     color: Themes.light.textSecondary,
